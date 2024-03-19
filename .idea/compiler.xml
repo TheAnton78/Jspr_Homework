@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="untitled100" />
+        <module name="http-server_homework" />
       </profile>
     </annotationProcessing>
   </component>
